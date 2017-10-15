@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 15 Oct 2017 23:29:21 at https://steamcommunity.com/openid/login?openid.ns=http://specs.openid.net/auth/2.0&openid.mode=checkid_setup&openid.return_to=https://enter-roll.com/login&openid.realm=https://enter-roll.com&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://steamcommunity.com/openid/login?openid.ns=http://specs.openid.net/auth/2.0&openid.mode=checkid_setup&openid.return_to=https://enter-roll.com/login&openid.realm=https://enter-roll.com&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select -O1 "D:\myProg\Sitrs\1\77" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:30:53	Error: 	"Not Found" (404) at link https://steamcommunity-a.akamaihd.net/public/shared/images/header/inbox_async_game_invite.png (from https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=3PCQa90mBx6S)
+23:30:53	Error: 	"Not Found" (404) at link https://steamcommunity-a.akamaihd.net/public/shared/images/sharedfiles/bg_shared_item_workshop.jpg (from https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=3PCQa90mBx6S)
+23:30:53	Error: 	"Not Found" (404) at link https://steamcommunity-a.akamaihd.net/public/shared/images/sharedfiles/bg_shared_item_greenlight.jpg (from https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=3PCQa90mBx6S)
+23:30:53	Error: 	"Not Found" (404) at link https://steamcommunity-a.akamaihd.net/public/shared/images/sharedfiles/bg_shared_item_guide.jpg (from https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=3PCQa90mBx6S)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 33 seconds : 292 links scanned, 287 files written (13440211 bytes overall) [4266002 bytes received at 45870 bytes/sec], 12004470 bytes transferred using HTTP compression in 196 files, ratio 22%, 29.2 requests per connection
+(4 errors, 0 warnings, 0 messages)
